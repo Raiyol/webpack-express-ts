@@ -12,7 +12,7 @@ if (process.env.NODE_ENV === 'development') {
   });
 } else {
   app.get('*', (req: Request, res: Response) => {
-    res.redirect('https://broall.com' + req.url);
+    res.redirect('https://github.com/Raiyol/webpack-express-ts' + req.url);
   });
 }
 
