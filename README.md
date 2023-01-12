@@ -1,5 +1,7 @@
 # Setting up typescript & express js project
 
+Documentation on how I made the project:
+
 [Setting up Typescript Only](https://blog.logrocket.com/typescript-with-node-js-and-express/)
 
 [Setting up Webpack/Typescript/Express](https://medium.com/the-andela-way/how-to-set-up-an-express-api-using-webpack-and-typescript-69d18c8c4f52)
